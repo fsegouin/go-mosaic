@@ -8,5 +8,5 @@ Generate random mosaic wallpapers from a color scheme
 - You can save your wallpaper as an SVG file
 
 ## Examples
-![Example 1]()
-![Example 2]()
+![Example 1](https://raw.githubusercontent.com/fsegouin/go-mosaic/master/screenshots/screenshot1.png)
+![Example 2](https://raw.githubusercontent.com/fsegouin/go-mosaic/master/screenshots/screenshot2.png)
