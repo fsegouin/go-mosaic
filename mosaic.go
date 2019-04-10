@@ -38,11 +38,7 @@ func mosaic(w http.ResponseWriter, req *http.Request) {
 	color4 := []int{251, 44, 92}
 	color5 := []int{252, 224, 1}
 
-	colors = append(colors, color1)
-	colors = append(colors, color2)
-	colors = append(colors, color3)
-	colors = append(colors, color4)
-	colors = append(colors, color5)
+	colors = append(colors, color1, color2, color3, color4, color5)
 
 	//r := rand.Intn(20)
 	r := 60
